@@ -1,0 +1,3 @@
+[submodule "chaser/rules"]
+	path = chaser/rules
+	url = git@github.com:KPC-U16/CHaserRuleGuide-Pub.git
