@@ -28,7 +28,6 @@ repository: [yugu0202/compactCHaserServer](https://github.com/yugu0202/compactCH
 
 #### 含まれていないもの
 
-- 追加ドキュメント
 - CUIサーバー
 - GUIサーバー
 - デバッガー
@@ -49,16 +48,7 @@ repository: [yugu0202/compactCHaserServer](https://github.com/yugu0202/compactCH
 
 #### 含まれていないもの
 
-- 追加ドキュメント
 - GUIサーバー
-
-### CHaser{lang-name}-Doc
-
-#### 含まれているもの
-
-- 基本ドキュメント
-- 追加ドキュメント
-- セットアップドキュメント
 
 #### 含まれていないもの
 
