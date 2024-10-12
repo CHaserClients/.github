@@ -6,7 +6,7 @@ We are a group of developers who are building CHaser client wrappers for various
 ### CHaserとは
 
 CHaserは、アルゴリズムの学習や競技プログラミングの練習に最適なゲームです。  
-ゲームの詳細は、[こちら](https://github.com/KPC-U16/CHaserRuleGuide-Pub/blob/main/CHaser競技細則.md)や、[こちら](./chaser/rules/CHaser競技細則.md)を参照してください。 どちらも同じ内容です。
+ゲームの詳細は、[こちら](https://github.com/KPC-U16/CHaserRuleGuide-Pub/blob/main/CHaser競技細則.md)や、[こちら](../chaser/rules/CHaser競技細則.md)を参照してください。 どちらも同じ内容です。
 
 ### プロジェクトについて
 
